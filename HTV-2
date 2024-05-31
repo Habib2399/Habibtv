@@ -78,7 +78,6 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239045.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/49970.ts
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
@@ -101,16 +100,12 @@ https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", Nexus Tv
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
-
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
 https://live-cdn.tsports.com/live-02/master_854.m3u8
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESHI", Dipto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/28t9GsW6/sekOPL6.png" group-title="BANGLADESHI", Jago News 24
@@ -119,19 +114,12 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AnUlFWN.jpg" group-title="BANGLADESHI", Times 24
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
-
-
-
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
 https://8v1cc03lpt.gpcdn.net/lyrnxmpshm/Bangla_TV_Euro-1080p.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLADESHI", Anando Tv
 https://is.gd/DI049h.m3u8 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png" group-title="BANGLADESHI", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png" group-title="BANGLADESHI", CHANNEL S
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
@@ -189,6 +177,8 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yldyrvA.jpg" group-title="KOLKATA", Amar Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
 
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", AB TV
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="KOLKATA", Amar Digital
@@ -236,6 +226,9 @@ https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca14134537
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
+
+
+
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC", Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
@@ -291,6 +284,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zkRAgqv.jpg" group-title="MUSIC", Songeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold
@@ -410,6 +405,8 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
+
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ENGLISH", AXN
 http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo=https://is.gd/3xyrMz.jpg"" group-title="ENGLISH", Action Hollywood Movies
@@ -466,6 +463,8 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 
 
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AZwQQ3t.png" group-title="TV SHOW", The Kapil Sharma Show
 http://xtv.ooo:8080/live/T4S00515/820172/342075.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3J0qGaI.jpg" group-title="TV SHOW", indian Idol Show
@@ -476,60 +475,43 @@ http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 1
-http://xtv.ooo:8080/live/T4S00515/820172/268021.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 2
-http://xtv.ooo:8080/live/T4S00515/820172/341039.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 3
-http://xtv.ooo:8080/live/T4S00515/820172/341040.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 4
-http://xtv.ooo:8080/live/T4S00515/820172/341041.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 5
-http://xtv.ooo:8080/live/T4S00515/820172/341043.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 6
-http://xtv.ooo:8080/live/T4S00515/820172/253596.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 7
-http://xtv.ooo:8080/live/T4S00515/820172/263394.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 8
-http://xtv.ooo:8080/live/T4S00515/820172/251578.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 9
-http://xtv.ooo:8080/live/T4S00515/820172/251580.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 10
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 11
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 1
 http://xtv.ooo:8080/adnankb2006/86057314/253596
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 12
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 2
 http://xtv.ooo:8080/adnankb2006/86057314/253597
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 13
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 3
 http://xtv.ooo:8080/adnankb2006/86057314/253598
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 14
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 4
 http://xtv.ooo:8080/adnankb2006/86057314/263386
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 15
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 5
 http://xtv.ooo:8080/adnankb2006/86057314/263387
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 16
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 6
 http://xtv.ooo:8080/adnankb2006/86057314/263388
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 17
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 7
 http://xtv.ooo:8080/adnankb2006/86057314/263389
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 18
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 8
 http://xtv.ooo:8080/adnankb2006/86057314/263390
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 19
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 9
 http://xtv.ooo:8080/adnankb2006/86057314/263391
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 20
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 10
 http://xtv.ooo:8080/adnankb2006/86057314/263392
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 21
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 11
 http://xtv.ooo:8080/adnankb2006/86057314/263393
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 22
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 12
 http://xtv.ooo:8080/adnankb2006/86057314/263394
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 23
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 13
 http://xtv.ooo:8080/adnankb2006/86057314/263395
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 24
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 14
 http://xtv.ooo:8080/adnankb2006/86057314/263396
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 25
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 15
 http://xtv.ooo:8080/adnankb2006/86057314/362986
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 26
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 16
 http://xtv.ooo:8080/adnankb2006/86057314/362987
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 27
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 17
 http://xtv.ooo:8080/adnankb2006/86057314/362988
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 28
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 18
 http://xtv.ooo:8080/adnankb2006/86057314/362989
 
 
@@ -599,6 +581,7 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3Qd5fSx.png" group-title="SPORTS", Sony Sports 1 HD
