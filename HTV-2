@@ -743,9 +743,9 @@ http://xtv.ooo:8080/6199216/619002/352096
 #EXTINF: -1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/3159.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="SPORTS", Bein Sports 2
-http://xtv.ooo:8080/6199216/619002/353015
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/I1VyWqt.jpg" group-title="SPORTS", beIN Sports 3
-http://xtv.ooo:8080/6199216/619002/353016
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NAsylzo.jpg" group-title="SPORTS", beIN Sports 4
 http://xtv.ooo:8080/6199216/619002/353017
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SFR8SFC.jpg" group-title="SPORTS", beIN Sports 5
