@@ -103,7 +103,7 @@ http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239068.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
-https://live-cdn.tsports.com/live-02/master_854.m3u8
+http://xtv.ooo:8080/live/global/global/167590.ts
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESHI", Dipto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
@@ -1167,19 +1167,17 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236854
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2021/10/asportshd001.jpg" ,CRI: A SPORTS ARY HD #1
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236842
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png" ,CRI: GEO SUPER HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236840
+http://xtv.ooo:8080/live/global/global/167568.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,CRI: PTV SPORTS HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236838
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" ,CRI: JIO CRICKET HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236845
+http://xtv.ooo:8080/live/global/global/206297.ts
 #EXTINF:-1 group-title="SPORTS" ,CRI: TEN CRICKET HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236844
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" ,CRI: STAR SPORTS TAMIL 1 HD #1
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277335
+http://xtv.ooo:8080/live/global/global/167587.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" ,CRI: SONY TEN 1 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277343
 #EXTINF:-1 group-title="SPORTS" ,CRI: SONY Ten 2 HD.
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277344
+http://xtv.ooo:8080/live/global/global/109984.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" ,CRI: SONY TEN 3 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277345
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" ,CRI: STAR SPORTS 2 HD
@@ -1217,9 +1215,9 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/268508
 #EXTINF:-1 group-title="SPORTS ᴴᴰ" ,SPORTS 4 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/268507
 #EXTINF:-1 group-title="SPORTS ᴴᴰ" ,SPORTS 1 HD #1
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/268504
+http://xtv.ooo:8080/live/global/global/109987.ts
 #EXTINF:-1 group-title="SPORTS ᴴᴰ" tvg-id="truTV.us" ,SPORTS 2 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/268505
+http://xtv.ooo:8080/live/global/global/109988.ts
 #EXTINF:-1 group-title="SPORTS ᴴᴰ" ,SPORTS 3 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/268506
 #EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 2 SD
