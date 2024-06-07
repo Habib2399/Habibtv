@@ -473,6 +473,77 @@ http://xtv.ooo:8080/live/7082785282/90643795158/344483.ts
 http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MXk3Hk6y/Super-Dancer.png" group-title="TV SHOW", Super Dancer
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", pak vs eng server-2
+https://mahabubur@sports.lvyclv.com/live/m33295412/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", BAN Vs USA SERVER-1
+https://mahabubur@sports.lvyclv.com/live/m33297576/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rfSwNjd.jpg" group-title="LIVE NOW", BAN Vs USA SERVER-2
+https://kingkhan.website/api/live/onlive.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/j69yOgM.jpg" group-title="LIVE NOW", U19 Live Server - PAK-U19 vs AU-U19
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png" group-title="LIVE NOW", woman's Premier League
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_wpl_s1_m1260224/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
+https://salamus2023.onlinehdhls.ru/ddy3/premium741/playlist.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
+https://salamus2023.onlinehdhls.ru:443/ddy5/premium269/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png" group-title="LIVE NOW", woman's Premier League
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_wpl_s1_m1260224/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Documentary" ,AE: FashionTV
+http://xtv.ooo:8080/global/global/355013
+#EXTINF:-1 group-title="Documentary" ,AF: FashionTV
+http://xtv.ooo:8080/global/global/347499
+#EXTINF:-1 group-title="Documentary" ,BE: FashionTV
+http://xtv.ooo:8080/global/global/348339
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" ,BD | DISCOVERY BANGLA
+http://xtv.ooo:8080/global/global/245966
+#EXTINF:-1 group-title="Documentary" ,US: Nasa TV
+http://xtv.ooo:8080/global/global/346445
+#EXTINF:-1 group-title="Documentary" ,US: Science
+http://xtv.ooo:8080/global/global/346432
+#EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
+http://xtv.ooo:8080/global/global/346431
+#EXTINF:-1 group-title="Documentary" ,US: Travel Channel
+http://xtv.ooo:8080/global/global/346447
+#EXTINF:-1 group-title="Documentary" ,US: InfoWars
+http://xtv.ooo:8080/global/global/346443
+#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,IND: Discovery Hindi
+http://xtv.ooo:8080/global/global/206287
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
+http://xtv.ooo:8080/global/global/206292
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
+http://xtv.ooo:8080/global/global/206280
+#EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" ,IND: Travel XP Eng
+http://xtv.ooo:8080/global/global/206279
+#EXTINF:-1 group-title="Documentary" ,IND: Discovery Science
+http://xtv.ooo:8080/global/global/206289
+#EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" ,IN: History TV 18 FHD
+http://xtv.ooo:8080/global/global/206295
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
+http://xtv.ooo:8080/global/global/206285
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
+http://xtv.ooo:8080/global/global/206286
+#EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,IND: Epic
+http://xtv.ooo:8080/global/global/206296
+#EXTINF:-1 group-title="Documentary" ,DOC | NAT GEO WILD Safari
+http://xtv.ooo:8080/global/global/363003
+#EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
+http://xtv.ooo:8080/global/global/363004
+#EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
+http://xtv.ooo:8080/global/global/206291
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
+https://is.gd/Zgvdpc.m3u8
+
 
 
 #EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,01 BLOCKBUSTER
@@ -1307,76 +1378,7 @@ https://catowrap.live/mrgamingbtsport1.m3u8
 http://cdn.sajeeb.online/hotflixbd/live1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", pak vs eng server-1
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", pak vs eng server-2
-https://mahabubur@sports.lvyclv.com/live/m33295412/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", BAN Vs USA SERVER-1
-https://mahabubur@sports.lvyclv.com/live/m33297576/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rfSwNjd.jpg" group-title="LIVE NOW", BAN Vs USA SERVER-2
-https://kingkhan.website/api/live/onlive.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/j69yOgM.jpg" group-title="LIVE NOW", U19 Live Server - PAK-U19 vs AU-U19
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png" group-title="LIVE NOW", woman's Premier League
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_wpl_s1_m1260224/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
-https://salamus2023.onlinehdhls.ru/ddy3/premium741/playlist.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
-https://salamus2023.onlinehdhls.ru:443/ddy5/premium269/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png" group-title="LIVE NOW", woman's Premier League
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_wpl_s1_m1260224/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Documentary" ,AE: FashionTV
-http://xtv.ooo:8080/global/global/355013
-#EXTINF:-1 group-title="Documentary" ,AF: FashionTV
-http://xtv.ooo:8080/global/global/347499
-#EXTINF:-1 group-title="Documentary" ,BE: FashionTV
-http://xtv.ooo:8080/global/global/348339
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" ,BD | DISCOVERY BANGLA
-http://xtv.ooo:8080/global/global/245966
-#EXTINF:-1 group-title="Documentary" ,US: Nasa TV
-http://xtv.ooo:8080/global/global/346445
-#EXTINF:-1 group-title="Documentary" ,US: Science
-http://xtv.ooo:8080/global/global/346432
-#EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
-http://xtv.ooo:8080/global/global/346431
-#EXTINF:-1 group-title="Documentary" ,US: Travel Channel
-http://xtv.ooo:8080/global/global/346447
-#EXTINF:-1 group-title="Documentary" ,US: InfoWars
-http://xtv.ooo:8080/global/global/346443
-#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,IND: Discovery Hindi
-http://xtv.ooo:8080/global/global/206287
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
-http://xtv.ooo:8080/global/global/206292
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
-http://xtv.ooo:8080/global/global/206280
-#EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" ,IND: Travel XP Eng
-http://xtv.ooo:8080/global/global/206279
-#EXTINF:-1 group-title="Documentary" ,IND: Discovery Science
-http://xtv.ooo:8080/global/global/206289
-#EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" ,IN: History TV 18 FHD
-http://xtv.ooo:8080/global/global/206295
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
-http://xtv.ooo:8080/global/global/206285
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
-http://xtv.ooo:8080/global/global/206286
-#EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,IND: Epic
-http://xtv.ooo:8080/global/global/206296
-#EXTINF:-1 group-title="Documentary" ,DOC | NAT GEO WILD Safari
-http://xtv.ooo:8080/global/global/363003
-#EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
-http://xtv.ooo:8080/global/global/363004
-#EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
-http://xtv.ooo:8080/global/global/206291
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-#EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
-https://is.gd/Zgvdpc.m3u8
+#EXTINF: -1 tvg-logo
 
 
 FM RADIO
