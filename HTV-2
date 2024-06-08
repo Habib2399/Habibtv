@@ -473,24 +473,32 @@ http://xtv.ooo:8080/live/7082785282/90643795158/344483.ts
 http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MXk3Hk6y/Super-Dancer.png" group-title="TV SHOW", Super Dancer
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", pak vs eng server-2
-https://mahabubur@sports.lvyclv.com/live/m33295412/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", BAN Vs USA SERVER-1
-https://mahabubur@sports.lvyclv.com/live/m33297576/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rfSwNjd.jpg" group-title="LIVE NOW", BAN Vs USA SERVER-2
-https://kingkhan.website/api/live/onlive.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/j69yOgM.jpg" group-title="LIVE NOW", U19 Live Server - PAK-U19 vs AU-U19
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png" group-title="LIVE NOW", woman's Premier League
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_wpl_s1_m1260224/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
-https://salamus2023.onlinehdhls.ru/ddy3/premium741/playlist.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BOBdv0P.png" group-title="LIVE NOW", PSL 2024
-https://salamus2023.onlinehdhls.ru:443/ddy5/premium269/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png" group-title="LIVE NOW", woman's Premier League
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_wpl_s1_m1260224/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET HD.
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343704
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET (4K).
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343705
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hdhindi.in" ,STAR SPORTS 1 HINDI
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343706
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hdhindi.in" ,STAR SPORTS 1 HINDI (4K)..
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343707
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hd.in" ,STAR SPORTS 1 HD
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343708
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hd.in" ,STAR SPORTS 1 (4K)
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343709
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports2hd.in" ,STAR SPORTS 2 HD
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343710
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports2hd.in" ,STAR SPORTS 2 (4K)
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343711
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" ,WILLOW CRICKET HD
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343712
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="supersportcricket.za" ,SUPER SPORTS CRICKET HD
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343713
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="ptvsports.pk" ,PTV SPORTS HD
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343714
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" ,ASTRO CRICKET HD
+http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/344876
 
 
 
