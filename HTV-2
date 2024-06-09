@@ -203,7 +203,8 @@ http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239047.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts
 #EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
- 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/rFRWH9gQ/image.jpg" group-title="KOLKATA", DESI MUSIC
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla
 http://xtv.ooo:8080/6199216/619002/245906
 #EXTINF: -1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="KOLKATA", Sun Bangla Cinema
