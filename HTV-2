@@ -479,30 +479,22 @@ http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
 
 
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET HD.
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343704
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET (4K).
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343705
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hdhindi.in" ,STAR SPORTS 1 HINDI
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343706
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hdhindi.in" ,STAR SPORTS 1 HINDI (4K)..
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343707
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hd.in" ,STAR SPORTS 1 HD
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343708
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports1hd.in" ,STAR SPORTS 1 (4K)
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343709
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports2hd.in" ,STAR SPORTS 2 HD
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343710
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="starsports2hd.in" ,STAR SPORTS 2 (4K)
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343711
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" ,WILLOW CRICKET HD
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343712
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="supersportcricket.za" ,SUPER SPORTS CRICKET HD
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343713
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" tvg-id="ptvsports.pk" ,PTV SPORTS HD
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/343714
-#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://i.ibb.co/5c7xn8s/images-4.png" ,ASTRO CRICKET HD
-http://starshare.live:8080/sDouR8ee0j/vJfJGRgmSs/344876
+
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 1
+http://xtv.ooo:8080/global/global/220059
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 2
+http://xtv.ooo:8080/global/global/220060
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 3
+http://xtv.ooo:8080/global/global/220061
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 4
+http://xtv.ooo:8080/global/global/220062
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 5
+http://xtv.ooo:8080/global/global/220063
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 6
+http://xtv.ooo:8080/global/global/220064
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 7
+http://xtv.ooo:8080/global/global/220065
+
 
 
 
