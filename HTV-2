@@ -239,7 +239,7 @@ https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=136&e=.m3u8|User-Agent=test69
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJVyPpD.jpg" group-title="MUSIC", Robindo songit
 http://tinyurl.com/Rabindrasang
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtvbeat
-https://tplay.dinesh29.com.np/live/tataplay-universal/mtv-beats-hd/index.ts
+http://xtv.ooo:8080/live/387546/200900/66273.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Eten TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
