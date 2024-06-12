@@ -484,18 +484,21 @@ http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
 
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 1
 https://1rdk.short.gy/prime-video-worldwide/icc-mens-wc-t20/Join-TG-@HimelOP_Official.m3u8
+
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 1
+http://xtv.ooo:8080/387546/200900/220059
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 2
-http://xtv.ooo:8080/global/global/220060
+http://xtv.ooo:8080/387546/200900/220060
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 3
-http://xtv.ooo:8080/global/global/220061
+http://xtv.ooo:8080/387546/200900/220061
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 4
-http://xtv.ooo:8080/global/global/220062
+http://xtv.ooo:8080/387546/200900/220062
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 5
-http://xtv.ooo:8080/global/global/220063
+http://xtv.ooo:8080/387546/200900/220063
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 6
-http://xtv.ooo:8080/global/global/220064
+http://xtv.ooo:8080/387546/200900/220064
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 7
-http://xtv.ooo:8080/global/global/220065
+http://xtv.ooo:8080/387546/200900/220065
 
 
 
