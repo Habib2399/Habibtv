@@ -406,7 +406,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZYs328jF/Zee-Cinemalu.png" group-title="INDIAN", Zee Cinemalu
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg" group-title="INDIAN", Zee Bollywood
-http://humsab.xyz/IN_ZEEBOLLYWOODHD/index.m3u8?
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bollywood/index.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png" group-title="INDIAN", Zee Action
 http://xtv.ooo:8080/live/global/global/66191.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dd8VLUN.jpg" group-title="INDIAN", Bollywood Classic
