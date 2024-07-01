@@ -288,50 +288,6 @@ https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 18
-http://xtv.ooo:8080/8652145/7653254/362865
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 21
-http://xtv.ooo:8080/8652145/7653254/362868
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 20
-http://xtv.ooo:8080/8652145/7653254/362867
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 19
-http://xtv.ooo:8080/8652145/7653254/362866
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 03
-http://xtv.ooo:8080/8652145/7653254/270504
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 02
-http://xtv.ooo:8080/8652145/7653254/270503
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 01
-http://xtv.ooo:8080/8652145/7653254/219498
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 06
-http://xtv.ooo:8080/8652145/7653254/270507
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 05
-http://xtv.ooo:8080/8652145/7653254/270506
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 04
-http://xtv.ooo:8080/8652145/7653254/270505
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 09
-http://xtv.ooo:8080/8652145/7653254/270510
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 08
-http://xtv.ooo:8080/8652145/7653254/270509
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 07
-http://xtv.ooo:8080/8652145/7653254/270508
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 12
-http://xtv.ooo:8080/8652145/7653254/270513
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 15
-http://xtv.ooo:8080/8652145/7653254/270516
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 14
-http://xtv.ooo:8080/8652145/7653254/270515
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 11
-http://xtv.ooo:8080/8652145/7653254/270512
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 10
-http://xtv.ooo:8080/8652145/7653254/270511
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 13
-http://xtv.ooo:8080/8652145/7653254/270514
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 16
-http://xtv.ooo:8080/8652145/7653254/270517
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 17
-http://xtv.ooo:8080/8652145/7653254/270518
-
-
 
 
 
@@ -770,8 +726,7 @@ http://xtv.ooo:8080/global/global/251347
 http://xtv.ooo:8080/global/global/251348
 #EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,24 BOLLYWOOD MOVIES 24/7
 http://xtv.ooo:8080/global/global/251349
-#EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,25 ***
-http://xtv.ooo:8080/global/global/251350
+
 #EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,26 BOLLYWOOD MOVIES 24/7
 http://xtv.ooo:8080/global/global/251351
 #EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,27 BOLLYWOOD MOVIES 24/7
@@ -810,8 +765,7 @@ http://xtv.ooo:8080/global/global/251573
 http://xtv.ooo:8080/global/global/251574
 #EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,44 BOLLYWOOD MOVIES 24/7
 http://xtv.ooo:8080/global/global/251575
-#EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,45 ***
-http://xtv.ooo:8080/global/global/251576
+
 #EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,46 BOLLYWOOD MOVIES 24/7
 http://xtv.ooo:8080/global/global/251577
 #EXTINF:-1 group-title="MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,47 BOLLYWOOD MOVIES 24/7
@@ -1113,127 +1067,7 @@ http://xtv.ooo:8080/global/global/345825
 http://xtv.ooo:8080/global/global/345826
 #EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,59 HOLLYWOOD MOVIES 24/7
 http://xtv.ooo:8080/global/global/345827
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLY
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,92 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345860
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,93 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345861
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,94 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345862
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,95 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345863
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,96 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345864
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,97 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345865
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,98 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345866
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,99 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345867
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,100 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345868
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,101 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345869
-#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,102 HOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/global/global/345870
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,01 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/285183
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,02 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301092
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,03 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301093
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,04 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301094
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,05 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301095
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,06 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301096
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,07 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301097
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,08 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301098
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,09 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/301099
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,10 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/341310
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,11 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/341311
-#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,12 HOLLYWOOD ACTION 24/7
-http://xtv.ooo:8080/global/global/341312
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,01 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341313
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,02 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341314
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,03 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341315
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,04 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341316
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,05 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341317
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,06 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341318
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,07 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341319
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,08 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341320
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,09 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341321
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,10 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341322
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,11 HOLLYWOOD HORROR 24/7
-http://xtv.ooo:8080/global/global/341323
-#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,01 HOLLYWOOD THRILLER 24/7
-http://xtv.ooo:8080/global/global/341324
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" ,•●★--- Welcome ----★●•
-http://xtv.ooo:8080/global/global/369818
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,Movies: Fast & Furious 24/7
-http://xtv.ooo:8080/global/global/369819
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,MOVIES: INDIANA JONES 24/7
-http://xtv.ooo:8080/global/global/369820
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,SHOWS:JAMES BOND 24/7
-http://xtv.ooo:8080/global/global/369821
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,MOVIES: The transporter 24/7
-http://xtv.ooo:8080/global/global/369822
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7: Globe_Tamil_Bloclbuster
-http://xtv.ooo:8080/global/global/369823
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,Movies: X-Men 24/7
-http://xtv.ooo:8080/global/global/369824
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,MOVIES: Blade 24/7
-http://xtv.ooo:8080/global/global/369825
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,Movies: CAPTAIN AMERICA / AVENGERS  24/7
-http://xtv.ooo:8080/global/global/369826
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,Movies: Pirates Of The Caribbean 24/7
-http://xtv.ooo:8080/global/global/369827
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,MOVIES: ROCKY MOVIES 24/7
-http://xtv.ooo:8080/global/global/369828
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,MOVIES: CARRY ON MOVIES  24/7
-http://xtv.ooo:8080/global/global/369829
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Fast and Furious Collection
-http://xtv.ooo:8080/global/global/369830
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Cyborg  + Blade
-http://xtv.ooo:8080/global/global/369831
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Jeepers_creepes + Scream
-http://xtv.ooo:8080/global/global/369832
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Jurassic World Colletion
-http://xtv.ooo:8080/global/global/369833
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Oceans Complete Collection
-http://xtv.ooo:8080/global/global/369834
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Rambo_collection
-http://xtv.ooo:8080/global/global/369835
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: The_kingsman + Mission_impossoble Collection
-http://xtv.ooo:8080/global/global/369836
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Halloween + Jaws.
-http://xtv.ooo:8080/global/global/369837
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: John_wick+MiiB+Mortal_kombat
-http://xtv.ooo:8080/global/global/369838
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: Bruce_lee+Underworld+godfather
-http://xtv.ooo:8080/global/global/369839
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 4k: 4K_movies_2022_2021_vol_3
-http://xtv.ooo:8080/global/global/369840
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: 4K_movies_2022_2021_vol_2
-http://xtv.ooo:8080/global/global/369841
-#EXTINF:-1 group-title="24/7 HOLLYWOOD BLOCKBUSTER" ,24/7 Movies: 4K_movies_2022_2021_vol_1
-http://xtv.ooo:8080/global/global/369842
+
 
 #EXTINF:-1 group-title="MOVIES 24/7" ,24/7: Tamil Movies 01
 http://xtv.ooo:8080/global/global/301492
@@ -1289,6 +1123,7 @@ http://bostv.one:8080/Hitesh123/Hitesh123/118856
 http://bostv.one:8080/Hitesh123/Hitesh123/118857
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 15
 http://bostv.one:8080/Hitesh123/Hitesh123/118858
+
 #EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/f8a68734653615.56d86f6930c08.jpg" ,The Kapil Sharma Show Season 4
 http://bostv.one:8080/Hitesh123/Hitesh123/85273
 #EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY0MzQ0MTctZjUxMC00YzA4LWIxYWYtN2U2YmM1ZGYyNmJiXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX1000_.jpg" ,Indias Best Dancer 3
@@ -1363,7 +1198,6 @@ http://bostv.one:8080/Hitesh123/Hitesh123/95304
 http://bostv.one:8080/Hitesh123/Hitesh123/95305
 #EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_8
 http://bostv.one:8080/Hitesh123/Hitesh123/95306
-
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
@@ -1461,294 +1295,6 @@ https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MihH9i8.png" group-title="FM REDIO", Radio Mahananda
 https://radiomahanandafm.radioca.st/rm.mp3
-
-
-
-/7 111:STEVEN SEAGAL
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60258
-#EXTINF:-1 group-title="24/7" ,24/7 112:SUPERHERO MOVIES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60257
-#EXTINF:-1 group-title="24/7" ,24/7 130:ACCORDING TO JIM
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60237
-#EXTINF:-1 group-title="24/7" ,24/7 131:ALF
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60234
-#EXTINF:-1 group-title="24/7" ,24/7 132:ALICE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60232
-#EXTINF:-1 group-title="24/7" ,24/7 133:AMERICAN CHOPPER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60231
-#EXTINF:-1 group-title="24/7" ,24/7 135:ANCIENT ALIENS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60224
-#EXTINF:-1 group-title="24/7" ,24/7 136:ARCHER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60222
-#EXTINF:-1 group-title="24/7" ,24/7 137:ARE YOU AFRAID OF THE DARK
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60220
-#EXTINF:-1 group-title="24/7" ,24/7 138:ARRESTED DEVELOPMENT
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60218
-#EXTINF:-1 group-title="24/7" ,24/7 139:BAR RESCUE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60216
-#EXTINF:-1 group-title="24/7" ,24/7 140:BARNEY MILLER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60215
-#EXTINF:-1 group-title="24/7" ,24/7 141:BATMAN 1966
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60213
-#EXTINF:-1 group-title="24/7" ,24/7 142:A NIGHTMARE ON ELM STREET
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60211
-#EXTINF:-1 group-title="24/7" ,24/7 143:BAYWATCH
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60210
-#EXTINF:-1 group-title="24/7" ,24/7 144:BEAVIS AND BUTTHEAD
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60208
-#EXTINF:-1 group-title="24/7" ,24/7 134:AMERICAN DAD
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60225
-#EXTINF:-1 group-title="24/7" ,24/7 145:ACTION MOVIES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60207
-#EXTINF:-1 group-title="24/7" ,24/7 146:BEWITCHED
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60205
-#EXTINF:-1 group-title="24/7" ,24/7 147:BILLY THE EXTERMINATOR
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60203
-#EXTINF:-1 group-title="24/7" ,24/7 148:BLUE BLOODS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60202
-#EXTINF:-1 group-title="24/7" ,24/7 149:BOBS BURGERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60201
-#EXTINF:-1 group-title="24/7" ,24/7 150:BONANZA
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60199
-#EXTINF:-1 group-title="24/7" ,24/7 151:BORDER SECURITY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60197
-#EXTINF:-1 group-title="24/7" ,24/7 152:BOY MEETS WORLD
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60196
-#EXTINF:-1 group-title="24/7" ,24/7 153:BRADY BUNCH
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60195
-#EXTINF:-1 group-title="24/7" ,24/7 154:BREAKING BAD
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60192
-#EXTINF:-1 group-title="24/7" ,24/7 155:BROOKLYN NINE-NINE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60191
-#EXTINF:-1 group-title="24/7" ,24/7 156:BUFFY THE VAMPIRE SLAYER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60190
-#EXTINF:-1 group-title="24/7" ,24/7 157:BURN NOTICE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60189
-#EXTINF:-1 group-title="24/7" ,24/7 158:CHAPPELLE'S SHOW
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60188
-#EXTINF:-1 group-title="24/7" ,24/7 159:CHARMED
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60187
-#EXTINF:-1 group-title="24/7" ,24/7 160:CHEERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60186
-#EXTINF:-1 group-title="24/7" ,24/7 161:COLUMBO
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60185
-#EXTINF:-1 group-title="24/7" ,24/7 162:CRIMINAL MINDS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60184
-#EXTINF:-1 group-title="24/7" ,24/7 163:CURB YOUR ENTHUSIASM
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60180
-#EXTINF:-1 group-title="24/7" ,24/7 164:DA ALI G SHOW
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60179
-#EXTINF:-1 group-title="24/7" ,24/7 165:DALLAS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60177
-#EXTINF:-1 group-title="24/7" ,24/7 166:DEADLIEST CATCH
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60176
-#EXTINF:-1 group-title="24/7" ,24/7 167:DEGRASSI JUNIOR HIGH
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60175
-#EXTINF:-1 group-title="24/7" ,24/7 168:SIMPSONS TREEHOUSE OF HORROR
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60173
-#EXTINF:-1 group-title="24/7" ,24/7 169:JET LI MOVIES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60172
-#EXTINF:-1 group-title="24/7" ,24/7 187:FAMILY TIES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60141
-#EXTINF:-1 group-title="24/7" ,24/7 188:FANTASY ISLAND
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60140
-#EXTINF:-1 group-title="24/7" ,24/7 189:FEAR FACTOR
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60139
-#EXTINF:-1 group-title="24/7" ,24/7 190:FORENSIC FILES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60138
-#EXTINF:-1 group-title="24/7" ,24/7 191:FORGED IN FIRE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60137
-#EXTINF:-1 group-title="24/7" ,24/7 192:FRASIER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60136
-#EXTINF:-1 group-title="24/7" ,24/7 193:FRESH PRINCE OF BEL-AIR
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60135
-#EXTINF:-1 group-title="24/7" ,24/7 194:FRIENDS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60133
-#EXTINF:-1 group-title="24/7" ,24/7 195:FULL HOUSE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60132
-#EXTINF:-1 group-title="24/7" ,24/7 196:GAME OF THRONES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60131
-#EXTINF:-1 group-title="24/7" ,24/7 197:GANGLAND
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60128
-#EXTINF:-1 group-title="24/7" ,24/7 198:GANGLAND UNDERCOVER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60127
-#EXTINF:-1 group-title="24/7" ,24/7 199:GET SMART
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60126
-#EXTINF:-1 group-title="24/7" ,24/7 200:GHOST ADVENTURES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60125
-#EXTINF:-1 group-title="24/7" ,24/7 201:GILLIGAN'S ISLAND
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60124
-#EXTINF:-1 group-title="24/7" ,24/7 202:GILMORE GIRLS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60123
-#EXTINF:-1 group-title="24/7" ,24/7 203:EDDY MURPHY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60122
-#EXTINF:-1 group-title="24/7" ,24/7 204:GODFATHER OF HARLEM
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60121
-#EXTINF:-1 group-title="24/7" ,24/7 205:THAT GIRL
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60120
-#EXTINF:-1 group-title="24/7" ,24/7 206:GOLD RUSH
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60119
-#EXTINF:-1 group-title="24/7" ,24/7 207:GOOD TIMES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60118
-#EXTINF:-1 group-title="24/7" ,24/7 208:GOOSEBUMPS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60111
-#EXTINF:-1 group-title="24/7" ,24/7 209:GROWING PAINS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60110
-#EXTINF:-1 group-title="24/7" ,24/7 210:GUNSMOKE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60108
-#EXTINF:-1 group-title="24/7" ,24/7 211:HAPPY DAYS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60107
-#EXTINF:-1 group-title="24/7" ,24/7 212:HAPPY ENDINGS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60106
-#EXTINF:-1 group-title="24/7" ,24/7 213:HARDCORE PAWN
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60105
-#EXTINF:-1 group-title="24/7" ,24/7 214:HE-MAN MASTERS OF UNIVERSE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60104
-#EXTINF:-1 group-title="24/7" ,24/7 215:CHIPS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60103
-#EXTINF:-1 group-title="24/7" ,24/7 216:HOARDERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60102
-#EXTINF:-1 group-title="24/7" ,24/7 217:HOGAN'S HEROES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60100
-#EXTINF:-1 group-title="24/7" ,24/7 218:HOME IMPROVEMENT
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60099
-#EXTINF:-1 group-title="24/7" ,24/7 219:HOW I MET YOUR MOTHER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60097
-#EXTINF:-1 group-title="24/7" ,24/7 220:HOW IT’S MADE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60095
-#EXTINF:-1 group-title="24/7" ,24/7 221:I DREAM OF JEANNIE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60094
-#EXTINF:-1 group-title="24/7" ,24/7 222:I LOVE LUCY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60091
-#EXTINF:-1 group-title="24/7" ,24/7 223:IMPRACTICAL JOKERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60088
-#EXTINF:-1 group-title="24/7" ,24/7 224:IN LIVING COLOR
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60087
-#EXTINF:-1 group-title="24/7" ,24/7 225:INCREDIBLE HULK
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60086
-#EXTINF:-1 group-title="24/7" ,24/7 226:INK MASTERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60085
-#EXTINF:-1 group-title="24/7" ,24/7 227:COBRA KAI
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60084
-#EXTINF:-1 group-title="24/7" ,24/7 228:JUST FOR LAUGHS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60083
-#EXTINF:-1 group-title="24/7" ,24/7 229:KEEPING UP WITH THE KARDASHIANS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60081
-#EXTINF:-1 group-title="24/7" ,24/7 230:KING OF THE HILL
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60080
-#EXTINF:-1 group-title="24/7" ,24/7 231:KITCHEN NIGHTMARES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60079
-#EXTINF:-1 group-title="24/7" ,24/7 232:KNIGHT RIDER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60078
-#EXTINF:-1 group-title="24/7" ,24/7 233:LAST MAN STANDING
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60077
-#EXTINF:-1 group-title="24/7" ,24/7 234:LIVING SINGLE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60076
-#EXTINF:-1 group-title="24/7" ,24/7 235:LIZARD LICK TOWING
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60075
-#EXTINF:-1 group-title="24/7" ,24/7 236:LOST IN SPACE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60071
-#EXTINF:-1 group-title="24/7" ,24/7 237:M*A*S*H*
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60070
-#EXTINF:-1 group-title="24/7" ,24/7 238:MAD ABOUT YOU
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60069
-#EXTINF:-1 group-title="24/7" ,24/7 239:MAMA'S FAMILY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60068
-#EXTINF:-1 group-title="24/7" ,24/7 240:MAN WITH A PLAN
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60067
-#EXTINF:-1 group-title="24/7" ,24/7 241:MARRIED WITH CHILDREN
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60066
-#EXTINF:-1 group-title="24/7" ,24/7 242:MARTIN
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60064
-#EXTINF:-1 group-title="24/7" ,24/7 243:MARY TYLER MOORE SHOW
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60063
-#EXTINF:-1 group-title="24/7" ,24/7 244:MAYDAY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60062
-#EXTINF:-1 group-title="24/7" ,24/7 245:MIAMI VICE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60061
-#EXTINF:-1 group-title="24/7" ,24/7 246:MIKE & MOLLY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60059
-#EXTINF:-1 group-title="24/7" ,24/7 247:MELROSE PLACE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60058
-#EXTINF:-1 group-title="24/7" ,24/7 248:MODERN FAMILY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60057
-#EXTINF:-1 group-title="24/7" ,24/7 249:MOM
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60056
-#EXTINF:-1 group-title="24/7" ,24/7 250:MOST EXPENSIVEST
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60053
-#EXTINF:-1 group-title="24/7" ,24/7 251:MR BEAN
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60052
-#EXTINF:-1 group-title="24/7" ,24/7 252:INTERVENTION
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60050
-#EXTINF:-1 group-title="24/7" ,24/7 253:COMEDY MOVIES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60049
-#EXTINF:-1 group-title="24/7" ,24/7 254:MURDOCH MYSTERIES
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60048
-#EXTINF:-1 group-title="24/7" ,24/7 255:CAR 54, WHERE ARE YOU!
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60047
-#EXTINF:-1 group-title="24/7" ,24/7 256:MYTHBUSTERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60044
-#EXTINF:-1 group-title="24/7" ,24/7 257:NAKED AND AFRAID
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60043
-#EXTINF:-1 group-title="24/7" ,24/7 258:NEWHART
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60042
-#EXTINF:-1 group-title="24/7" ,24/7 259:NIGHT COURT
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60041
-#EXTINF:-1 group-title="24/7" ,24/7 260:SAW
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60038
-#EXTINF:-1 group-title="24/7" ,24/7 261:OVERHAULING
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60037
-#EXTINF:-1 group-title="24/7" ,24/7 262:OUTER LIMITS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60035
-#EXTINF:-1 group-title="24/7" ,24/7 263:PARKS AND RECREATION
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60034
-#EXTINF:-1 group-title="24/7" ,24/7 264:PAWN STARS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60033
-#EXTINF:-1 group-title="24/7" ,24/7 265:PEAKY BLINDERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60032
-#EXTINF:-1 group-title="24/7" ,24/7 266:PERFECT STRANGERS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60028
-#EXTINF:-1 group-title="24/7" ,24/7 267:PLANET EARTH
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60026
-#EXTINF:-1 group-title="24/7" ,24/7 268:POWER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60025
-#EXTINF:-1 group-title="24/7" ,24/7 269:PRISON BREAK
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60023
-#EXTINF:-1 group-title="24/7" ,24/7 270:QUANTUM LEAP
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60022
-#EXTINF:-1 group-title="24/7" ,24/7 271:REBA
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60021
-#EXTINF:-1 group-title="24/7" ,24/7 272:RED GREEN SHOW
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60020
-#EXTINF:-1 group-title="24/7" ,24/7 273:RICK AND MORTY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60019
-#EXTINF:-1 group-title="24/7" ,24/7 274:RIDICULOUSNESS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60018
-#EXTINF:-1 group-title="24/7" ,24/7 275:ROSEANNE
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60017
-#EXTINF:-1 group-title="24/7" ,24/7 276:MASTERCHEF
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60016
-#EXTINF:-1 group-title="24/7" ,24/7 277:SEINFELD
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60014
-#EXTINF:-1 group-title="24/7" ,24/7 278:SANFORD AND SON
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60013
-#EXTINF:-1 group-title="24/7" ,24/7 279:SAVED BY THE BELL
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60012
-#EXTINF:-1 group-title="24/7" ,24/7 280:SEX IN THE CITY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60011
-#EXTINF:-1 group-title="24/7" ,24/7 281:SCAM CITY
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60010
-#EXTINF:-1 group-title="24/7" ,24/7 282:LAW & ORDER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60009
-#EXTINF:-1 group-title="24/7" ,24/7 283:SHARK TANK
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60007
-#EXTINF:-1 group-title="24/7" ,24/7 284:SHE-RA: PRINCESS OF POWER
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60005
-#EXTINF:-1 group-title="24/7" ,24/7 285:SHERLOCK
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60004
-#EXTINF:-1 group-title="24/7" tvg-id="tring.international.al" ,24/7 286:SIMPSONS
-http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/30265
-
 
 
 
