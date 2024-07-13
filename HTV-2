@@ -322,11 +322,11 @@ http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ADXlju2.png" group-title="INDIAN", Sony WAH
-http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/4077.ts
+http://xtv.ooo:8080/live/387546/200900/112979.ts
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
-http://bostv.one:8080/live/Hitesh123/Hitesh123/119045.ts
+http://xtv.ooo:8080/live/387546/200900/221259.ts
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-hd/index.ts
+http://xtv.ooo:8080/live/387546/200900/66179.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/148611.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
@@ -346,7 +346,7 @@ http://starshare.live:8080/live/Michelle123/Michelle123/172368.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-cinema/index.ts
+http://xtv.ooo:8080/live/387546/200900/206307.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Up3mWkD.jpg" group-title="INDIAN", ABZY Movies
 http://xtv.ooo:8080/live/T4S00515/820172/104200.ts
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
@@ -386,7 +386,7 @@ http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
 http://xtv.ooo:8080/live/T4S00515/820172/104201.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
-https://tplay.dinesh29.com.np/live/tataplay-universal/b4u-kadak/index.ts
+http://xtv.ooo:8080/live/387546/200900/104199.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie
 https://tplay.dinesh29.com.np/live/tataplay-universal/bflix/index.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
