@@ -24,7 +24,7 @@ https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla Uk
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
-http://103.109.56.116/live/skyfeed1014/index.m3u8
+http://xtv.ooo:8080/live/387546/200900/245905.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="BANGLADESHI", Atn Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV
@@ -42,7 +42,7 @@ http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
 http://iptvtree.net:8080/live/romaniamedia/8cc105f9f2/69335.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESHI", Boishakhi Tv
-http://xtv.ooo:8080/live/06865926/38568386/245923.ts
+http://xtv.ooo:8080/live/387546/200900/245923.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
 https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" group-title="BANGLADESHI", Channel I
@@ -54,7 +54,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720639362/ei/I
 #EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+http://xtv.ooo:8080/live/387546/200900/245914.ts
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="BANGLADESHI", Deepto tv
 http://xtv.ooo:8080/live/8652145/7653254/245927.ts
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
