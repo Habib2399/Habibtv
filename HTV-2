@@ -1206,24 +1206,34 @@ http://bostv.one:8080/Hitesh123/Hitesh123/118857
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 15
 http://bostv.one:8080/Hitesh123/Hitesh123/118858
 
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/f8a68734653615.56d86f6930c08.jpg" ,The Kapil Sharma Show Season 4
-http://bostv.one:8080/Hitesh123/Hitesh123/85273
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY0MzQ0MTctZjUxMC00YzA4LWIxYWYtN2U2YmM1ZGYyNmJiXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX1000_.jpg" ,Indias Best Dancer 3
-http://bostv.one:8080/Hitesh123/Hitesh123/94424
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2021/01/25/today22.jpg" ,Happu Ki Ultan Paltan 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/95962
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzk0Y2M3M2EtMTYwZC00NWQ2LWJmYmQtYjAwMjAxOWYxOWNlXkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UX500_CR0,0,500,281_.jpg" ,Savdhaan India: Criminal Decoded 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/97473
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/63484f11ba2ba1b5af0d8cf18e9548918e2448e9f0f67794dac7e8646596a01a.jpg" ,Taarak Mehta Ka Ooltah Chashmah 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/97474
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://img.tellybest.com/article/202309/620x330_mtv-hustle-30-elimination-today-season-2023-eliminated-contestants-list.jpg" ,MTV Hustle Season 3.0 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118179
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://danceplus.hotstar.com/Content/images/danceplus-banner.png" ,Dance Plus Pro 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118180
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://images.thequint.com/thequint%2F2023-10%2F941e40a6-2069-4068-914d-c1162bd4914d%2FJhalak_Dikhhla_Jaa_Season_11.jpg?auto=format%2Ccompress&fmt=webp&width=720&w=1200" ,Jhalak Dikhhla Jaa Season 11 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118181
-#EXTINF:-1 group-title="Indian Reality TV Shows 24/7" tvg-logo="https://static.toiimg.com/photo/msid-104166058/104166058.jpg" ,Indian Idol Season 14 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118182
+#EXTM3U
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S16 24x7
+http://xtv.ooo:8080/06865926/38568386/207233
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S15 24x7
+http://xtv.ooo:8080/06865926/38568386/219642
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" ,CID | 24x7 CH01
+http://xtv.ooo:8080/06865926/38568386/340808
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" ,CID | 24x7 CH02
+http://xtv.ooo:8080/06865926/38568386/340873
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" ,CRIME PATROL Shatrak 24x7
+http://xtv.ooo:8080/06865926/38568386/340874
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" ,CRIME PATROL DIAL100 24x7
+http://xtv.ooo:8080/06865926/38568386/340875
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" ,CRIME PATROL 2.0 24x7
+http://xtv.ooo:8080/06865926/38568386/340876
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" ,The Kapil Sharma Show 24x7
+http://xtv.ooo:8080/06865926/38568386/342075
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" ,Indian Idol S13 24x7
+http://xtv.ooo:8080/06865926/38568386/344483
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" ,Super Dancer Chapter4 24x7
+http://xtv.ooo:8080/06865926/38568386/344486
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" ,Crime Patrol Shatrak S2 24x7
+http://xtv.ooo:8080/06865926/38568386/345742
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,HORROR DRAMA 24x7
+http://xtv.ooo:8080/06865926/38568386/368954
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" ,CID | 24x7 CH03
+http://xtv.ooo:8080/06865926/38568386/378909
+
 #EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Fast and Furious Collection
 http://bostv.one:8080/Hitesh123/Hitesh123/118706
 #EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Cyborg  + Blade
