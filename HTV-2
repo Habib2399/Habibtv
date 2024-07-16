@@ -197,7 +197,7 @@ http://xtv.ooo:8080/live/223322/223322/245897.ts
 #EXTINF: -1 tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA", Star Jalsha HD
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/49964.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
-http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/57882.ts
+http://xtv.ooo:8080/live/06865926/38568386/245895.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
