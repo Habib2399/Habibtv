@@ -335,7 +335,8 @@ http://xtv.ooo:8080/06865926/38568386/270505
 
 
 
-
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold
 http://bostv.one:8080/live/Hitesh123/Hitesh123/85208.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold 2
