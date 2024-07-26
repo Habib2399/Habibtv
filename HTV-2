@@ -1154,18 +1154,6 @@ http://xtv.ooo:8080/global/global/345826
 http://xtv.ooo:8080/global/global/345827
 
 
-#EXTINF:-1 group-title="MOVIES 24/7" ,24/7: Tamil Movies 01
-http://xtv.ooo:8080/global/global/301492
-#EXTINF:-1 group-title="MOVIES 24/7" ,24/7: Tamil Movies 02
-http://xtv.ooo:8080/global/global/301493
-#EXTINF:-1 group-title="MOVIES 24/7" ,24/7: Tamil Movies 03
-http://xtv.ooo:8080/global/global/301494
-#EXTINF:-1 group-title="MOVIES 24/7" ,24/7: Telugu Movies 01
-http://xtv.ooo:8080/global/global/301496
-#EXTINF:-1 group-title="MOVIES 24/7" ,24/7: Tamil Movies 04
-http://xtv.ooo:8080/global/global/301495
-#EXTINF:-1 group-title="MOVIES 24/7" ,24/7: Malayalam Movies 01
-http://xtv.ooo:8080/global/global/301497
 
 
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,SHAHRUKH KHAN MOVIES 24/7
@@ -1209,7 +1197,7 @@ http://bostv.one:8080/Hitesh123/Hitesh123/118857
 #EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 15
 http://bostv.one:8080/Hitesh123/Hitesh123/118858
 
-#EXTM3U
+
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S16 24x7
 http://xtv.ooo:8080/06865926/38568386/207233
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S15 24x7
