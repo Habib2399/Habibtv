@@ -339,7 +339,7 @@ http://xtv.ooo:8080/06865926/38568386/270505
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold HD
-https://humsab.xyz/IN_SonyMaxHD/tracks-v1a1/mono.m3u8
+http://humsab.xyz/IN_STGOLD/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold 2
 http://starshare.live:8080/live/Michelle123/Michelle123/157081.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
@@ -373,7 +373,7 @@ https://jio.dinesh29.com.np/live/jio-universal/sony-wah/index.ts
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 http://xtv.ooo:8080/live/387546/200900/221259.ts
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
-https://jio.dinesh29.com.np/live/jio-universal/sony-max-sd/index.ts
+https://humsab.xyz/IN_SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 https://jio.dinesh29.com.np/live/jio-universal/sony-max2/index.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
