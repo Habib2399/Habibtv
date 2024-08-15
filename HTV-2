@@ -60,7 +60,7 @@ http://xtv.ooo:8080/live/8652145/7653254/245927.ts
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
 http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/433.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
- ttps://utube.piratestv.workers.dev/@ekhontv.m3u8
+https://utube.piratestv.workers.dev/@ekhontv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
 http://xtv.ooo:8080/live/8652145/7653254/245915.ts
 #EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
@@ -102,9 +102,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", Nexus Tv
 https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
-http://xtv.ooo:8080/live/majid2409/4702020/245945.ts
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8?
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESHI", Deepto TV
 http://xtv.ooo:8080/live/majid2409/4702020/245927.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
@@ -481,7 +481,7 @@ http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236892.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies Select
 http://xtv.ooo:8080/live/T4S00515/820172/66315.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gtkiZQY.png" group-title="ENGLISH", HBO
-http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236921.ts
+http://212.102.60.231/HBO/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bGASr7e.png" group-title="ENGLISH", HBO Family
 http://xtv.ooo:8080/live/T4S00515/820172/346570.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nXxPliC.png" group-title="ENGLISH", HBO Signature
