@@ -60,7 +60,7 @@ http://xtv.ooo:8080/live/8652145/7653254/245927.ts
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
 http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/433.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
-https://utube.piratestv.workers.dev/@ekhontv.m3u8
+https://4ytksrllvm.gpcdn.net/tv/Ekhon/Transcoded/Ekhon_720p/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
 http://xtv.ooo:8080/live/8652145/7653254/245915.ts
 #EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
