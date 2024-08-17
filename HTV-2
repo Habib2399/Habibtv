@@ -220,7 +220,7 @@ http://xtv.ooo:8080/6199216/619002/245906
 #EXTINF: -1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="KOLKATA", Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="KOLKATA", Sony Aath
-http://startv365.com:80/live/9794783213/6955630461/187249.ts
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg" group-title="KOLKATA", Jalsha Movies
 https://humsab.xyz/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8?
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg" group-title="KOLKATA", Zee Bangla Cinema
@@ -477,7 +477,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pix/index.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies
 http://xtv.ooo:8080/live/T4S00515/820172/348059.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies HD
-http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236892.ts
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies Select
 http://xtv.ooo:8080/live/T4S00515/820172/66315.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gtkiZQY.png" group-title="ENGLISH", HBO
