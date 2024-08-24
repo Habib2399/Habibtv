@@ -458,8 +458,8 @@ http://xtv.ooo:8080/live/global/global/112973.ts
 http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/i1UkI3B.jpg" group-title="INDIAN", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", DD National
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", Wow movies
+http://cdn2.pishow.tv/live/140/master.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ENGLISH", AXN
@@ -539,8 +539,8 @@ http://xtv.ooo:8080/global/global/346431
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1 group-title="Documentary" , Animel planet
 http://172.20.21.22/live/funtime1025/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,IND: Discovery Hindi
-http://xtv.ooo:8080/global/global/206287
+#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
 http://xtv.ooo:8080/global/global/206292
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
