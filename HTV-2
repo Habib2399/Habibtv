@@ -76,7 +76,7 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent
 http://172.20.21.22/live/skyfeed1012/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64YIvU8H4_c9Y0FquMnYyPFzcksDnfYPGR3eVl69j6A&s" group-title="BANGLADESHI", Nagorik tv
-https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
 http://172.20.21.22/live/skyfeed1021/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
@@ -92,7 +92,7 @@ http://172.20.21.22/live/funtime109/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg" group-title="BANGLADESHI", Ntv Europe
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", My Tv
-https://myflixbd.com/0.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BANGLADESHI", Mohona Tv
 http://xtv.ooo:8080/live/majid2409/4702020/245920.ts
 #EXTINF: -1 tvg-logo="https://rb.gy/ubykw0" group-title="BANGLADESHI", Somay News
