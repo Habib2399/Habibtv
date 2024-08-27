@@ -40,7 +40,7 @@ http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8nRyyAu.png" group-title="BANGLADESHI", Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+http://172.20.21.22/live/skyfeed1009/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESHI", Boishakhi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
@@ -54,7 +54,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724690725/ei/x
 #EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724691218/ei/sl7MZrHsAuSOjuMPoqnJmQg/ip/194.233.76.245/id/e0hazP2a2kY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9hfMUN8jFu4GWRj6eDcTPiwGgi9e34rC36wGmMOpZ8XP-aX_F982olbUTHE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANWHzsiwN3mnECa13UJQYZH9ImENomDY4rZ9j0sVFVNQAiEA4rb9tySPlfDwfRWtIF3VgyMSER9RynoLvz2FrmqZfls%3D/file/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724691077/ei/JV7MZt6KO5WS4t4PxYzOaA/ip/194.233.76.245/id/p_rx0gebwkc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/Mv1m9pKbdhz9ZWnDsV9tpup6mx1rPItYFUscmSfWWWaI8KB7AUo-3pZ1-ugoKcI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALC-y1WibVsFpFv0PGgXuMjbdlEjKmcNMROGVJCjF6bXAiEAyYGDrRrQAF8TBb7VknbZ7NEgGHXzSRWclQVsMQtMLeA%3D/file/index.m3u8
+http://172.20.21.22/live/funtime108/index.m3u8
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="BANGLADESHI", Deepto tv
 http://xtv.ooo:8080/live/8652145/7653254/245927.ts
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
@@ -74,11 +74,11 @@ http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239111.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png" group-title="BANGLADESHI", Green Tv
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+http://172.20.21.22/live/skyfeed1012/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64YIvU8H4_c9Y0FquMnYyPFzcksDnfYPGR3eVl69j6A&s" group-title="BANGLADESHI", Nagorik tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724690631/ei/Z1zMZtfmHfyg88EPz6KMmA8/ip/194.233.76.245/id/-_cJ70mlcvE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9hjeKW3P32Vg74Vo-n7002nCwq0vdND6EI7dF21OcPMzhEsKJRjTTDptkP0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXetfHKUoXJ4tuGHwuPq9oAKIgrYQFmCkdt9tq11Bo78CIDtKVDdLhRh-DYHo6vuqqcb9JMDaOABIh9grii6bTMMV/file/index.m3u8
+http://172.20.21.22/live/skyfeed1021/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
@@ -96,7 +96,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BANGLADESHI", Mohona Tv
 http://xtv.ooo:8080/live/majid2409/4702020/245920.ts
 #EXTINF: -1 tvg-logo="https://rb.gy/ubykw0" group-title="BANGLADESHI", Somay News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724691597/ei/LWDMZqULrqP1_A-8p5bZBQ/ip/194.233.76.245/id/xEl7I8pN-C0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9lj0xjhFuhHwQ2I_sbWJ4PCXrMLUlY7nO_DRhguxnbOyiAmTDnoIgjigwRQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN3BIe6dUzd4yUY2uD1ckyz_kNNJMxF_vNlADrec8cpyAiAhf1gP8N2wa2XkUAFX8MqrleztB_Z4dKiXnsX1aVkEeA%3D%3D/file/index.m3u8
+http://172.20.21.22/live/skyfeed1004/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg" group-title="BANGLADESHI", Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", Nexus Tv
