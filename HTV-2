@@ -82,7 +82,7 @@ http://172.20.21.22/live/skyfeed1021/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724693049/ei/2WXMZretE8b24t4P7_Tb4QQ/ip/194.233.76.245/id/sv-FHoSpNOk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9os3p296jOrCmX0Dzbr08cQX15B7fYCh1L0C3xtx00_KX71WKhD5I-41D9k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZivrbduxCMrPxoM5z6KOShp3A8Q4YMoMx-YHFiX-LbgCIGgx0Q_T22h8Z02-yMmBPcJrq0wSf6UJsnb4L7s7kqd4/file/index.m3u8
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
