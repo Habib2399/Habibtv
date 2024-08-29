@@ -100,7 +100,7 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="BANGLADESHI", Gtv
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239081.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="BANGLADESHI", Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+https://4ytksrllvm.gpcdn.net/tv/Gaan_Bangla/Transcoded/Gaan_Bangla_720p/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kRkRSvD.png" group-title="BANGLADESHI", Global Tv
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239111.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png" group-title="BANGLADESHI", Green Tv
