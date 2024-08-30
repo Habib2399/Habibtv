@@ -122,7 +122,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagonews24.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV
@@ -1189,49 +1189,6 @@ http://xtv.ooo:8080/global/global/345827
 
 
 
-
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,SHAHRUKH KHAN MOVIES 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118207
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" , Bollywood Movies 2022 24/7 live
-http://bostv.one:8080/Hitesh123/Hitesh123/118208
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" , Bollywood Movies 2021 24/7 live
-http://bostv.one:8080/Hitesh123/Hitesh123/118222
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" , Bollywood Movies 2020 24/7 live
-http://bostv.one:8080/Hitesh123/Hitesh123/118514
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Punjabi Movies 24/7 live
-http://bostv.one:8080/Hitesh123/Hitesh123/118629
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Salman Khan Movies 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118844
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Aamir Khan Movies 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118845
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 3
-http://bostv.one:8080/Hitesh123/Hitesh123/118846
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 4
-http://bostv.one:8080/Hitesh123/Hitesh123/118847
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 5
-http://bostv.one:8080/Hitesh123/Hitesh123/118848
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 6
-http://bostv.one:8080/Hitesh123/Hitesh123/118849
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 7
-http://bostv.one:8080/Hitesh123/Hitesh123/118850
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 8
-http://bostv.one:8080/Hitesh123/Hitesh123/118851
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 9
-http://bostv.one:8080/Hitesh123/Hitesh123/118852
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 10
-http://bostv.one:8080/Hitesh123/Hitesh123/118853
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 11
-http://bostv.one:8080/Hitesh123/Hitesh123/118854
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 12
-http://bostv.one:8080/Hitesh123/Hitesh123/118855
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 13
-http://bostv.one:8080/Hitesh123/Hitesh123/118856
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 14
-http://bostv.one:8080/Hitesh123/Hitesh123/118857
-#EXTINF:-1 group-title="BOLLYWOOD MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" ,Bollywood Movie 15
-http://bostv.one:8080/Hitesh123/Hitesh123/118858
-
-
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S16 24x7
 http://xtv.ooo:8080/06865926/38568386/207233
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S15 24x7
@@ -1259,62 +1216,6 @@ http://xtv.ooo:8080/06865926/38568386/368954
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" ,CID | 24x7 CH03
 http://xtv.ooo:8080/06865926/38568386/378909
 
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Fast and Furious Collection
-http://bostv.one:8080/Hitesh123/Hitesh123/118706
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Cyborg  + Blade
-http://bostv.one:8080/Hitesh123/Hitesh123/118707
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Jeepers_creepes + Scream
-http://bostv.one:8080/Hitesh123/Hitesh123/118708
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Jurassic World Colletion
-http://bostv.one:8080/Hitesh123/Hitesh123/118709
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Oceans Complete Collection
-http://bostv.one:8080/Hitesh123/Hitesh123/118710
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Rambo_collection
-http://bostv.one:8080/Hitesh123/Hitesh123/118711
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: The_kingsman + Mission_impossoble Collection
-http://bostv.one:8080/Hitesh123/Hitesh123/118712
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Halloween + Jaws.
-http://bostv.one:8080/Hitesh123/Hitesh123/118713
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: John_wick+MiiB+Mortal_kombat
-http://bostv.one:8080/Hitesh123/Hitesh123/118714
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,24/7 Movies: Bruce_lee+Underworld+godfather
-http://bostv.one:8080/Hitesh123/Hitesh123/118715
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,MOVIES: CARRY ON MOVIES  24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118716
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,MOVIES: ROCKY MOVIES 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118717
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,Movies: Pirates Of The Caribbean 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118718
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,Movies: CAPTAIN AMERICA / AVENGERS  24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118719
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,Movies: X-Men 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118720
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,MOVIES: Blade 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118721
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,Movies: Fast & Furious 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118722
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,MOVIES: INDIANA JONES 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118723
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,MOVIES: BATMAN 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118724
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,SHOWS:JAMES BOND 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118725
-#EXTINF:-1 group-title="Hollywood Movies 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi07uVcvOndWWCbKCuLHKyP4RAXcq3X1ohA&usqp=CAU" ,MOVIES: The transporter 24/7
-http://bostv.one:8080/Hitesh123/Hitesh123/118726
-#EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_1
-http://bostv.one:8080/Hitesh123/Hitesh123/95300
-#EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_2
-http://bostv.one:8080/Hitesh123/Hitesh123/95301
-#EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_3
-http://bostv.one:8080/Hitesh123/Hitesh123/95302
-#EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_4
-http://bostv.one:8080/Hitesh123/Hitesh123/95303
-#EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_5
-http://bostv.one:8080/Hitesh123/Hitesh123/95304
-#EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_6
-http://bostv.one:8080/Hitesh123/Hitesh123/95305
-#EXTINF:-1 group-title="Netflix Action 24/7" tvg-logo="https://thedailyguardian.com/wp-content/uploads/2022/09/Netflix.jpg" ,24/7 Movies: Netflix_Action_Vol_8
-http://bostv.one:8080/Hitesh123/Hitesh123/95306
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
