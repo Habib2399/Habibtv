@@ -165,6 +165,10 @@ https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
+#EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Toffee Drama
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Toffee Movies
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eeANyjD.jpg" group-title="BANGLADESHI", TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qKf0Ih3.png" group-title="BANGLADESHI", TV ONE
