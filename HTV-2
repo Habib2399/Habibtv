@@ -42,7 +42,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
-https://bongohub.pw/bioscope.php?cc=btv-hd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/r2YjB0s.png" group-title="BANGLADESHI", BTV Chottogram
@@ -552,8 +552,8 @@ http://xtv.ooo:8080/global/global/206280
 http://xtv.ooo:8080/global/global/206279
 #EXTINF:-1 group-title="Documentary" ,IND: Discovery Science
 http://xtv.ooo:8080/global/global/206289
-#EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" ,IN: History TV 18 FHD
-http://xtv.ooo:8080/global/global/206295
+#EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
+https://jio.jiotv.link/api/app/live.php?id=146&e=.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
 http://xtv.ooo:8080/global/global/206285
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
