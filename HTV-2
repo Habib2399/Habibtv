@@ -78,7 +78,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png" group-title="BANGLADESHI", CHANNEL EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
 http://172.20.21.22/live/funtime108/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESHI", Deshi Tv
@@ -90,7 +90,7 @@ http://xtv.ooo:8080/live/8652145/7653254/245927.ts
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
 http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726500333/ei/jfnnZtqlIOTsz7sPxISlyAE/ip/172.68.218.160/id/_BXYvp0fZ2A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxYtZqSuEbfrITu0JXZXzJlSQIV29hOemQyf-nASXHhAuTvi1bHfuXdxuR0w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgF9naeR89QFDT7Afhiiz9EgKtXu4s8dSuSjWQ0_v7CoECIQCNCwvEIczlcJ7wrzH59-nsjGqGRmIuD8yu5yHOOx2SQA%3D%3D/file/index.m3u8
+https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
 http://xtv.ooo:8080/live/8652145/7653254/245915.ts
 #EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
