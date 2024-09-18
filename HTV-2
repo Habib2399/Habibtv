@@ -574,6 +574,24 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
+https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
+https://cdn3.pishow.tv/live/283/283_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv
+https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LZPwHc2.png" group-title="CARTOON", Disney HD
+http://xtv.ooo:8080/6199216/619002/167551
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Nickelodeon
+http://195.26.87.217/live.ts?channelId=254&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF: -1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="CARTOON", Kids Cartoon
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="CARTOON", Kidsland
+https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network Hindi
+
 
 
 #EXTINF:-1 group-title=SPORTS tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)
@@ -1199,23 +1217,7 @@ http://xtv.ooo:8080/06865926/38568386/378909
 
 
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
-https://cdn3.pishow.tv/live/283/283_1.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv
-https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LZPwHc2.png" group-title="CARTOON", Disney HD
-http://xtv.ooo:8080/6199216/619002/167551
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Nickelodeon
-http://195.26.87.217/live.ts?channelId=254&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", Discovery Kids
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
-#EXTINF: -1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="CARTOON", Kids Cartoon
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="CARTOON", Kidsland
-https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network Hindi
+#EXTINF: -1 tvg-logo="ht
 https://da.gd/cnfreetvbd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Beani Kids
 https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8
