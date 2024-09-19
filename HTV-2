@@ -603,7 +603,7 @@ http://xtv.ooo:8080/global/global/167580
 #EXTINF:-1 group-title=SPORTS tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
 http://xtv.ooo:8080/global/global/167595
 #EXTINF:-1 group-title=SPORTS tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" ,PK: TEN SPORTS
-http://xtv.ooo:8080/global/global/167569
+https://sports.bdixtv24.com/m3u8.php/tenspk.m3u8
 #EXTINF:-1 group-title=SPORTS tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" ,AE: StarzPlay Criclife 1
 http://xtv.ooo:8080/global/global/355008
 #EXTINF:-1 group-title=SPORTS tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" ,AE: StarzPlay Criclife 2
@@ -659,9 +659,9 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236842
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png" ,CRI: GEO SUPER HD
 http://xtv.ooo:8080/live/global/global/167568.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,CRI: PTV SPORTS HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236838
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" ,CRI: JIO CRICKET HD
-http://xtv.ooo:8080/live/global/global/206297.ts
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,CRI: TEN CRICKET HD
 http://xtv.ooo:8080/live/global/global/167587.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" ,CRI: SONY TEN 1 HD
@@ -685,9 +685,9 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237218
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" ,US: SPORTS XTRA
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237258
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,BEIN SPORT ENGLISH 2
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237254
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" ,BEIN SPORT ENGLISH 1
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237237
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://j.top4top.io/p_25633k15q1.png" ,|AR| BEIN SPORT 3 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237224
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,|AR| BEIN SPORT  2 HD
