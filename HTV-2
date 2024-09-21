@@ -68,7 +68,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_9
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
-http://172.20.21.22/live/skyfeed1015/index.m3u8
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/43n70f" group-title="BANGLADESHI", Cumilla Tv
 http://103.149.142.133/0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zRN30eE.jpg" group-title="BANGLADESHI", Channel 52
@@ -110,7 +110,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8|Referer=https://
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64YIvU8H4_c9Y0FquMnYyPFzcksDnfYPGR3eVl69j6A&s" group-title="BANGLADESHI", Nagorik tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
-http://ktv.im:8080/live/111222/222111/83800.ts
+http://opplex.tv:8080/live/global/global/245917.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CyNx0Zh.png" group-title="BANGLADESHI", Jatv
 https://jatv.sonarbanglatv.com/jatv/jatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lL2Iyx9.jpg" group-title="BANGLADESHI", Jagoroni Tv
@@ -313,39 +313,39 @@ http://ekdilhai.pro/tipsVOD24/7/index.m3u8?token=925d21132cd84d96f64b14f205076d9
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,24/7 MUSIC 4
 http://ekdilhai.pro/zecVOD24/7/index.m3u8?token=7bfe7b53df94757233ab8927bc838086
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 10
-http://xtv.ooo:8080/06865926/38568386/270511
+http://opplex.tv:8080/live/global/global/270495.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 11
-http://xtv.ooo:8080/06865926/38568386/270512
+http://opplex.tv:8080/live/global/global/270496.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 12
-http://xtv.ooo:8080/06865926/38568386/270513
+http://opplex.tv:8080/live/global/global/270497.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 15
-http://xtv.ooo:8080/06865926/38568386/270516
+http://opplex.tv:8080/live/global/global/270500.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 14
-http://xtv.ooo:8080/06865926/38568386/270515
+http://opplex.tv:8080/live/global/global/270499.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 13
-http://xtv.ooo:8080/06865926/38568386/270514
+http://opplex.tv:8080/live/global/global/270498.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 16
-http://xtv.ooo:8080/06865926/38568386/270517
+http://opplex.tv:8080/live/global/global/270501.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 18
-http://xtv.ooo:8080/06865926/38568386/362865
+http://opplex.tv:8080/live/global/global/362841.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 19
-http://xtv.ooo:8080/06865926/38568386/362866
+http://opplex.tv:8080/live/global/global/362842.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 20
-http://xtv.ooo:8080/06865926/38568386/362867
+http://opplex.tv:8080/live/global/global/362843.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 21
-http://xtv.ooo:8080/06865926/38568386/362868
+http://opplex.tv:8080/live/global/global/362844.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 03
-http://xtv.ooo:8080/06865926/38568386/270504
+http://opplex.tv:8080/live/global/global/270488.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 02
-http://xtv.ooo:8080/06865926/38568386/270503
+http://opplex.tv:8080/live/global/global/268065.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 01
-http://xtv.ooo:8080/06865926/38568386/219498
+http://opplex.tv:8080/live/global/global/268058.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 06
-http://xtv.ooo:8080/06865926/38568386/270507
+http://opplex.tv:8080/live/global/global/270491.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 05
-http://xtv.ooo:8080/06865926/38568386/270506
+http://opplex.tv:8080/live/global/global/270490.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 04
-http://xtv.ooo:8080/06865926/38568386/270505
+http://opplex.tv:8080/live/global/global/270489.ts
 
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
@@ -1190,8 +1190,8 @@ http://xtv.ooo:8080/global/global/345827
 
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S16 24x7
 http://xtv.ooo:8080/06865926/38568386/207233
-#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S15 24x7
-http://xtv.ooo:8080/06865926/38568386/219642
+#EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,Supper  Chapter4
+http://opplex.tv:8080/live/global/global/344486.ts
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" ,CID | 24x7 CH01
 http://xtv.ooo:8080/06865926/38568386/340808
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" ,CID | 24x7 CH02
@@ -1203,9 +1203,9 @@ http://xtv.ooo:8080/06865926/38568386/340875
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" ,CRIME PATROL 2.0 24x7
 http://xtv.ooo:8080/06865926/38568386/340876
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" ,The Kapil Sharma Show 24x7
-http://xtv.ooo:8080/06865926/38568386/342075
+http://opplex.tv:8080/live/global/global/342075.ts
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" ,Indian Idol S13 24x7
-http://xtv.ooo:8080/06865926/38568386/344483
+http://opplex.tv:8080/live/global/global/344483.ts
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" ,Super Dancer Chapter4 24x7
 http://xtv.ooo:8080/06865926/38568386/344486
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" ,Crime Patrol Shatrak S2 24x7
