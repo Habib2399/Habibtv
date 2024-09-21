@@ -596,16 +596,16 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonn
 
 #EXTINF:-1 group-title=SPORTS tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)
 http://xtv.ooo:8080/global/global/109992
-#EXTINF:-1 group-title=SPORTS tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-id="dsport.in" ,IN: EUROPSPORT (4K)
-http://xtv.ooo:8080/global/global/206324
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-id="dsport.in" ,Sony Liv
+https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
 #EXTINF:-1 group-title=SPORTS tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" ,IN | SONY TEN 5
 http://xtv.ooo:8080/global/global/167580
 #EXTINF:-1 group-title=SPORTS tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
 http://xtv.ooo:8080/global/global/167595
-#EXTINF:-1 group-title=SPORTS tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" ,PK: TEN SPORTS
-https://sports.bdixtv24.com/m3u8.php/tenspk.m3u8
-#EXTINF:-1 group-title=SPORTS tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" ,AE: StarzPlay Criclife 1
-http://xtv.ooo:8080/global/global/355008
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" , TEN SPORTS
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 group-title=SPORTS tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , TNT
+http://14.128.12.54/cric/m3u8.php/bbtsp1.m3u8
 #EXTINF:-1 group-title=SPORTS tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" ,AE: StarzPlay Criclife 2
 http://xtv.ooo:8080/global/global/355009
 #EXTINF:-1 group-title=SPORTS ,AE: StarzPlay Criclife 3
@@ -647,7 +647,7 @@ http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/3137.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/3136.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" ,CRI: WILLOW CRICKET HD #1
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237503
+http://14.128.12.54/cric/m3u8.php/willowusa.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46" ,AU: FOX SPORTS 501 #1
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236869
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" ,CRI: Astro Cricket HD #1
@@ -691,9 +691,9 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://j.top4top.io/p_25633k15q1.png" ,|AR| BEIN SPORT 3 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237224
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,|AR| BEIN SPORT  2 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237223
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/Bein%20sports%20hd%201.png" ,|AR| BEIN SPORT  1 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237222
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : AD SPORT 1 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299882
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : Dubai Racing 1
@@ -706,7 +706,7 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294857
 #EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 1 SD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294856
 #EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 3 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294858
+https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd?|drmScheme=clearkey&drmLicense=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 #EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 4 SD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294859
 #EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 5 SD
