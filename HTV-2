@@ -312,40 +312,49 @@ http://ekdilhai.pro/zp1247/index.m3u8?token=ffcad025fb93241063a6b781e1fb663c
 http://ekdilhai.pro/tipsVOD24/7/index.m3u8?token=925d21132cd84d96f64b14f205076d96
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,24/7 MUSIC 4
 http://ekdilhai.pro/zecVOD24/7/index.m3u8?token=7bfe7b53df94757233ab8927bc838086
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 17
+http://xtv.ooo:8080/927382370/837382809/270518
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 09
+http://xtv.ooo:8080/927382370/837382809/270510
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 08
+http://xtv.ooo:8080/927382370/837382809/270509
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 07
+http://xtv.ooo:8080/927382370/837382809/270508
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 10
-http://opplex.tv:8080/live/global/global/270495.ts
+http://xtv.ooo:8080/927382370/837382809/270511
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 11
-http://opplex.tv:8080/live/global/global/270496.ts
+http://xtv.ooo:8080/927382370/837382809/270512
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 12
-http://opplex.tv:8080/live/global/global/270497.ts
+http://xtv.ooo:8080/927382370/837382809/270513
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 15
-http://opplex.tv:8080/live/global/global/270500.ts
+http://xtv.ooo:8080/927382370/837382809/270516
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 14
-http://opplex.tv:8080/live/global/global/270499.ts
+http://xtv.ooo:8080/927382370/837382809/270515
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 13
-http://opplex.tv:8080/live/global/global/270498.ts
+http://xtv.ooo:8080/927382370/837382809/270514
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 16
-http://opplex.tv:8080/live/global/global/270501.ts
+http://xtv.ooo:8080/927382370/837382809/270517
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 18
-http://opplex.tv:8080/live/global/global/362841.ts
+http://xtv.ooo:8080/927382370/837382809/362865
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 19
-http://opplex.tv:8080/live/global/global/362842.ts
+http://xtv.ooo:8080/927382370/837382809/362866
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 20
-http://opplex.tv:8080/live/global/global/362843.ts
+http://xtv.ooo:8080/927382370/837382809/362867
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 21
-http://opplex.tv:8080/live/global/global/362844.ts
+http://xtv.ooo:8080/927382370/837382809/362868
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 03
-http://opplex.tv:8080/live/global/global/270488.ts
+http://xtv.ooo:8080/927382370/837382809/270504
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 02
-http://opplex.tv:8080/live/global/global/268065.ts
+http://xtv.ooo:8080/927382370/837382809/270503
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 01
-http://opplex.tv:8080/live/global/global/268058.ts
+http://xtv.ooo:8080/927382370/837382809/219498
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 06
-http://opplex.tv:8080/live/global/global/270491.ts
+http://xtv.ooo:8080/927382370/837382809/270507
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 05
-http://opplex.tv:8080/live/global/global/270490.ts
+http://xtv.ooo:8080/927382370/837382809/270506
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 04
-http://opplex.tv:8080/live/global/global/270489.ts
+http://xtv.ooo:8080/927382370/837382809/270505
+
 
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
