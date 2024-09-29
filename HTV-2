@@ -110,7 +110,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8|Referer=https://
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64YIvU8H4_c9Y0FquMnYyPFzcksDnfYPGR3eVl69j6A&s" group-title="BANGLADESHI", Nagorik tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
-https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CyNx0Zh.png" group-title="BANGLADESHI", Jatv
 https://jatv.sonarbanglatv.com/jatv/jatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lL2Iyx9.jpg" group-title="BANGLADESHI", Jagoroni Tv
@@ -452,9 +452,9 @@ http://xtv.ooo:8080/live/T4S00515/820172/66170.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg" group-title="INDIAN", Star Plues Hd
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
-https://jio.dinesh29.com.np/live/jio-universal/b4u-movies/index.ts
+https://api.iptvbd.xyz/api/b4u_movies.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
-http://xtv.ooo:8080/live/5143datqa/6156gafwq/104199.ts
+https://cdn2.pishow.tv/live/160/160_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
@@ -471,6 +471,8 @@ http://xtv.ooo:8080/live/global/global/112973.ts
 http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/i1UkI3B.jpg" group-title="INDIAN", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i1kI3B.jpg" group-title="INDIAN", RDC Movies
+https://janya-rdcmovies.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/a74b0ae9-0ef1-404b-9c78-a332d5bbb279/1.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", Wow movies
 http://cdn2.pishow.tv/live/140/master.m3u8
 
