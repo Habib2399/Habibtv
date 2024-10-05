@@ -394,7 +394,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
 #EXTINF: -1 tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
 http://xtv.ooo:8080/live/5143datqa/6156gafwq/112972.ts
 #EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
-http://xtv.ooo:8080/live/5143datqa/6156gafwq/112973.ts
+http://172.105.123.238:18002/play/a01j
 #EXTINF: -1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
 http://xtv.ooo:8080/live/global/global/112973.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold HD
