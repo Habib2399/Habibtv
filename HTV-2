@@ -20,7 +20,6 @@ http://164.215.98.132:2082/8649G54859/8649G54859/71444
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla Uk
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
@@ -562,7 +561,7 @@ http://xtv.ooo:8080/global/global/206292
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
 http://xtv.ooo:8080/global/global/206280
 #EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" ,IND: Travel XP Eng
-http://xtv.ooo:8080/global/global/206279
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 group-title="Documentary" ,IND: Discovery Science
 https://nowmetv.xyz/delta/discovery/api/Discovery_Science_Hindi.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
