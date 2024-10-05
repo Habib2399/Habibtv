@@ -546,8 +546,8 @@ http://xtv.ooo:8080/global/global/348339
 http://xtv.ooo:8080/global/global/245966
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
 http://xtv.ooo:8080/global/global/346445
-#EXTINF:-1 group-title="Documentary" ,US: Science
-http://xtv.ooo:8080/global/global/346432
+#EXTINF:-1 group-title="Documentary" Discovery  Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
 http://xtv.ooo:8080/global/global/346431
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
@@ -584,6 +584,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
 
 https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/283_1.m3u8
