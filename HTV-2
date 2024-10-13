@@ -561,6 +561,9 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 http://xtv.ooo:8080/global/global/206292
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
 http://xtv.ooo:8080/global/global/206280
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
+http://xtv.ooo:8080/global/global/206280
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" ,IND: Travel XP Eng
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 group-title="Documentary" ,IND: Discovery Science
