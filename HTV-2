@@ -565,8 +565,8 @@ http://xtv.ooo:8080/global/global/206280
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
 http://xtv.ooo:8080/global/global/206280
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" ,IND: Travel XP Eng
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" , Travel XP Eng
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Documentary" ,IND: Discovery Science
 https://nowmetv.xyz/delta/discovery/api/Discovery_Science_Hindi.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
@@ -576,7 +576,7 @@ http://xtv.ooo:8080/global/global/206285
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
 http://xtv.ooo:8080/global/global/206286
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
+https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
